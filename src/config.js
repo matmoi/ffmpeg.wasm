@@ -46,5 +46,7 @@ module.exports = {
      * each environment.
      */
     corePath: '',
+
+    mainName: 'proxy_main',
   },
 };
